@@ -1,0 +1,17 @@
+==================
+> SOLID Principles
+==================
+
+* SOLID is one of the most popular sets of design principles in Object-Oriented software development/ programming.
+  It's a mnemonic acronym for the following five design principles
+
+    1. Single Responsibility Principle
+    2. Open-Closed Principle
+    3. Liskov Substitution Principle
+    4. Interface Segregation Principle
+    5. Dependency Inversion Principle
+
+* Code becomes more testable (remember TTD(Test Driven Development) is not only about testing, more
+  important it's about design)
+
+* Don't do stuff 'just because of' - very important to see the context of the program/code when applying SOLID

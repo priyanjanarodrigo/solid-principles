@@ -1,0 +1,9 @@
+Interface Segregation
+----------------------
+
+* "Clients should not be forced to depend upon interfaces that they do not use" (Robert Martin)
+
+    - Keep interfaces small
+    - Don't force classes to implement the methods they can't/not required at all
+    - Do not pollute interfaces a lot of methods
+    - Avoid fat interfaces
